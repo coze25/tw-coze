@@ -10,4 +10,6 @@ function test() {
     console.log(const3);
 }
 
-test();
+console.log(var2);
+
+const var2 = 2;
